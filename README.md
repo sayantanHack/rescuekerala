@@ -1,9 +1,9 @@
-# keralarescue
+<h1 align="center">keralaRescue</h1>
 
 [![Build Status - Travis][0]][1] [![Open Source Helpers](https://www.codetriage.com/ieeekeralasection/rescuekerala/badges/users.svg)](https://www.codetriage.com/ieeekeralasection/rescuekerala)
-
+<p align="center">
 The Website for co-ordinating the rehabilitation of the people affected in the 2018 Kerala Floods.
-
+</p>
 ## Table of Contents
 - [Requirements](#requirements)
     - [Docker](#docker)
